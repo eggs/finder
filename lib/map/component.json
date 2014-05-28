@@ -1,14 +1,12 @@
 {
-  "name": "boot",
+  "name": "map",
   "dependencies": {
-    "component/emitter": "*",
-    "component/query": "*"
   },
   "scripts": [
     "index.js"
   ],
   "styles":[
-    "boot.css"
+    "map.css"
   ],
   "locals": [],
   "paths": []
