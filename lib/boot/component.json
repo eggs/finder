@@ -1,6 +1,7 @@
 {
   "name": "boot",
   "dependencies": {
+    "visionmedia/superagent": "*",
     "component/emitter": "*",
     "component/query": "*"
   },
